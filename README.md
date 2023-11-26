@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div style="display: flex;
+            justify-content: center;
+            padding-bottom: 20px;">
+    <img src="assets/Fun/github-header-image.png"
+         alt="Header image">
+</div>
+
 <!--
 **jvill171/jvill171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,49 +23,86 @@ Here are some ideas to get you started:
 -->
 
 
-<div id="devicons">
-    <div>
-        <!-- HTML5 -->
-        <img src="./assets/LightMode/html5.svg#gh-light-mode-only" height="60px" alt="HTML5" title="HTML5">
-        <img src="./assets/DarkMode/html5.svg#gh-dark-mode-only" height="60px" alt="HTML5" title="HTML5">
-        <!-- CSS3 -->
-        <img src="./assets/LightMode/css3.svg#gh-light-mode-only" height="60px" alt="CSS3" title="CSS3">
-        <img src="./assets/DarkMode/css3.svg#gh-dark-mode-only" height="60px" alt="CSS3" title="CSS3">
-        <!-- jQuery -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="60px" alt="jQuery" title="jQuery"/>
-        <!-- Markdown -->
-        <img src="./assets/LightMode/markdown.svg#gh-light-mode-only" height="60px" alt="Markdown" title="Markdown">
-        <img src="./assets/DarkMode/markdown.svg#gh-dark-mode-only" height="60px" alt="Markdown" title="Markdown">
-        <!-- Python -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60px" alt="Python" title="Python"/>
-        <!-- Flask -->
-        <img src="./assets/LightMode/flask.svg#gh-light-mode-only" height="60px" alt="Flask" title="Flask"/>
-        <img src="./assets/DarkMode/flask.svg#gh-dark-mode-only" height="60px" alt="Flask" title="Flask"/>
-    </div>
-    <div>
-        <!-- Javascript -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" alt="Javascript" title="Javascript"/>
-        <!-- NodeJS -->
-        <img src="./assets/LightMode/nodejs.svg#gh-light-mode-only" height="60px" alt="NodeJS" title="NodeJS"/>
-        <img src="./assets/DarkMode/nodejs.svg#gh-dark-mode-only" height="60px" alt="NodeJS" title="NodeJS"/>
-        <!-- React -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60px" alt="React" title="React"/>
-        <!-- VueJS -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60px" alt="VueJS" title="VueJS"/>
-        <!-- Sass -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" alt="Sass" title="Sass"/>
-        <!-- Bootstrap -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60px" alt="Bootstrap" title="Bootstrap"/>
-    </div>
-    <div>
-        <!-- Tailwind -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60px" alt="Tailwind" title="Tailwind"/>
-        <!-- PostgreSQL -->
-        <img src="./assets/LightMode/postgresql.svg#gh-light-mode-only" height="60px" alt="PostgreSQL" title="PostgreSQL"/>
-        <img src="./assets/DarkMode/postgresql.svg#gh-dark-mode-only" height="60px" alt="PostgreSQL" title="PostgreSQL"/>
-        <!-- VS Code -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60px" alt="VS Code" title="VS Code"/>
-    </div>
+<div style="display:flex;
+            flex-wrap:wrap; justify-content:space-around; padding:10px 0;">
+    <!-- HTML5 -->
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/LightMode/html5.svg#gh-light-mode-only"
+         height="60px" alt="HTML5" title="HTML5">
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/DarkMode/html5.svg#gh-dark-mode-only"
+         height="60px" alt="HTML5" title="HTML5">
+    <!-- CSS3 -->
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/LightMode/css3.svg#gh-light-mode-only"
+         height="60px" alt="CSS3" title="CSS3">
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/DarkMode/css3.svg#gh-dark-mode-only"
+         height="60px" alt="CSS3" title="CSS3">
+    <!-- jQuery -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"
+         height="60px" alt="jQuery" title="jQuery"/>
+    <!-- Markdown -->
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/LightMode/markdown.svg#gh-light-mode-only"
+         height="60px" alt="Markdown" title="Markdown">
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/DarkMode/markdown.svg#gh-dark-mode-only"
+         height="60px" alt="Markdown" title="Markdown">
+    <!-- Python -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+         height="60px" alt="Python" title="Python"/>
+    <!-- Flask -->
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/LightMode/flask.svg#gh-light-mode-only"
+         height="60px" alt="Flask" title="Flask"/>
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/DarkMode/flask.svg#gh-dark-mode-only"
+         height="60px" alt="Flask" title="Flask"/>
+    <!-- Javascript -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         height="60px" alt="Javascript" title="Javascript"/>
+    <!-- NodeJS -->
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/LightMode/nodejs.svg#gh-light-mode-only"
+         height="60px" alt="NodeJS" title="NodeJS"/>
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/DarkMode/nodejs.svg#gh-dark-mode-only"
+         height="60px" alt="NodeJS" title="NodeJS"/>
+    <!-- React -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+         height="60px" alt="React" title="React"/>
+    <!-- VueJS -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"
+         height="60px" alt="VueJS" title="VueJS"/>
+    <!-- Sass -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+         height="60px" alt="Sass" title="Sass"/>
+    <!-- Bootstrap -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"
+         height="60px" alt="Bootstrap" title="Bootstrap"/>
+    <!-- Tailwind -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+         height="60px" alt="Tailwind" title="Tailwind"/>
+    <!-- PostgreSQL -->
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/LightMode/postgresql.svg#gh-light-mode-only"
+         height="60px" alt="PostgreSQL" title="PostgreSQL"/>
+    <img style="padding: 0 10px;"
+         src="./assets/devicons/DarkMode/postgresql.svg#gh-dark-mode-only"
+         height="60px" alt="PostgreSQL" title="PostgreSQL"/>
+    <!-- VS Code -->
+    <img style="padding: 0 10px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+         height="60px" alt="VS Code" title="VS Code"/>
 </div>
 
 <br/>
