@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub-Mark-Light](assets/LightMode/markdown.svg#gh-light-mode-only)
+![GitHub-Mark-Dark](assets/DarkMode/markdown.svg#gh-dark-mode-only)
+
