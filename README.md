@@ -59,16 +59,9 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<!-- ✨     ✨     ✨ STYLES ✨     ✨     ✨ -->
-<style>
-    /* GH Dark Mode backgrounds:
-            background-color: rgb(34, 39, 46);
-            background-color: rgb(13, 17, 23);
-    */
-    #devicons img{
-        border-radius: 5px;
-        height: 60px;
-        margin: 0 5px; 
-    }
-</style>
 
+<!-- GH Dark Mode backgrounds:
+        background-color: rgb(34, 39, 46);
+        background-color: rgb(13, 17, 23);
+        
+    Leaving this here to reference background colors with SVGs if I add more later-->
