@@ -19,43 +19,43 @@ Here are some ideas to get you started:
 <div id="devicons">
     <div>
         <!-- HTML5 -->
-        <img src="./assets/LightMode/html5.svg#gh-light-mode-only" alt="HTML5" title="HTML5">
-        <img src="./assets/DarkMode/html5.svg#gh-dark-mode-only" alt="HTML5" title="HTML5">
+        <img src="./assets/LightMode/html5.svg#gh-light-mode-only" height="60px" alt="HTML5" title="HTML5">
+        <img src="./assets/DarkMode/html5.svg#gh-dark-mode-only" height="60px" alt="HTML5" title="HTML5">
         <!-- CSS3 -->
-        <img src="./assets/LightMode/css3.svg#gh-light-mode-only" alt="CSS3" title="CSS3">
-        <img src="./assets/DarkMode/css3.svg#gh-dark-mode-only" alt="CSS3" title="CSS3">
+        <img src="./assets/LightMode/css3.svg#gh-light-mode-only" height="60px" alt="CSS3" title="CSS3">
+        <img src="./assets/DarkMode/css3.svg#gh-dark-mode-only" height="60px" alt="CSS3" title="CSS3">
         <!-- jQuery -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" title="jQuery"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="60px" alt="jQuery" title="jQuery"/>
         <!-- Markdown -->
-        <img src="./assets/LightMode/markdown.svg#gh-light-mode-only" alt="Markdown" title="Markdown">
-        <img src="./assets/DarkMode/markdown.svg#gh-dark-mode-only" alt="Markdown" title="Markdown">
+        <img src="./assets/LightMode/markdown.svg#gh-light-mode-only" height="60px" alt="Markdown" title="Markdown">
+        <img src="./assets/DarkMode/markdown.svg#gh-dark-mode-only" height="60px" alt="Markdown" title="Markdown">
         <!-- Python -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60px" alt="Python" title="Python"/>
         <!-- Flask -->
-        <img src="./assets/LightMode/flask.svg#gh-light-mode-only" alt="Flask" title="Flask"/>
-        <img src="./assets/DarkMode/flask.svg#gh-dark-mode-only" alt="Flask" title="Flask"/>
+        <img src="./assets/LightMode/flask.svg#gh-light-mode-only" height="60px" alt="Flask" title="Flask"/>
+        <img src="./assets/DarkMode/flask.svg#gh-dark-mode-only" height="60px" alt="Flask" title="Flask"/>
     </div>
     <div>
         <!-- Javascript -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" alt="Javascript" title="Javascript"/>
         <!-- NodeJS -->
-        <img src="./assets/LightMode/nodejs.svg#gh-light-mode-only" alt="NodeJS" title="NodeJS"/>
-        <img src="./assets/DarkMode/nodejs.svg#gh-dark-mode-only" alt="NodeJS" title="NodeJS"/>
+        <img src="./assets/LightMode/nodejs.svg#gh-light-mode-only" height="60px" alt="NodeJS" title="NodeJS"/>
+        <img src="./assets/DarkMode/nodejs.svg#gh-dark-mode-only" height="60px" alt="NodeJS" title="NodeJS"/>
         <!-- React -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" title="React"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60px" alt="React" title="React"/>
         <!-- VueJS -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" title="VueJS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60px" alt="VueJS" title="VueJS"/>
         <!-- Sass -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" title="Sass"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" alt="Sass" title="Sass"/>
         <!-- Bootstrap -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60px" alt="Bootstrap" title="Bootstrap"/>
     </div>
     <div>
         <!-- PostgreSQL -->
-        <img src="./assets/LightMode/postgresql.svg#gh-light-mode-only" alt="PostgreSQL" title="PostgreSQL"/>
-        <img src="./assets/DarkMode/postgresql.svg#gh-dark-mode-only" alt="PostgreSQL" title="PostgreSQL"/>
+        <img src="./assets/LightMode/postgresql.svg#gh-light-mode-only" height="60px" alt="PostgreSQL" title="PostgreSQL"/>
+        <img src="./assets/DarkMode/postgresql.svg#gh-dark-mode-only" height="60px" alt="PostgreSQL" title="PostgreSQL"/>
         <!-- VS Code -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60px" alt="VS Code" title="VS Code"/>
     </div>
 </div>
 
