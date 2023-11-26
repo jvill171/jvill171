@@ -51,6 +51,8 @@ Here are some ideas to get you started:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60px" alt="Bootstrap" title="Bootstrap"/>
     </div>
     <div>
+        <!-- Tailwind -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60px" alt="Tailwind" title="Tailwind"/>
         <!-- PostgreSQL -->
         <img src="./assets/LightMode/postgresql.svg#gh-light-mode-only" height="60px" alt="PostgreSQL" title="PostgreSQL"/>
         <img src="./assets/DarkMode/postgresql.svg#gh-dark-mode-only" height="60px" alt="PostgreSQL" title="PostgreSQL"/>
@@ -58,6 +60,15 @@ Here are some ideas to get you started:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60px" alt="VS Code" title="VS Code"/>
     </div>
 </div>
+
+<br/>
+<br/>
+
+![jvill171's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvill171&hide=contribs,prs&show_icons=true&icon_color=3254E0&rank_icon=percentile&bg_color=50,ac6ff6,e5e0fb,e0dffb,3254e0&title_color=2F2F84&ring_color=3254E0)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvill171&layout=donut-vertical&bg_color=50,ac6ff6,e5e0fb,e0dffb,8498ec&title_color=2F2F84)](https://github.com/jvill171/github-readme-stats))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvill171&repo=magidekt-frontend)](https://github.com/jvill171/github-readme-stats)
 
 
 <!-- GH Dark Mode backgrounds:
