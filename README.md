@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![jvill171's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvill171&hide=contribs,prs&show_icons=true&icon_color=3254E0&rank_icon=percentile&bg_color=50,ac6ff6,e5e0fb,e0dffb,3254e0&title_color=2F2F84&ring_color=3254E0)](https://github.com/anuraghazra/github-readme-stats)
+[![jvill171's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvill171&hide=contribs,prs&show_icons=true&icon_color=3254E0&rank_icon=percentile&bg_color=50,ac6ff6,e5e0fb,e0dffb,3254e0&title_color=2F2F84&ring_color=3254E0)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvill171&layout=donut-vertical&custom_title=jvill171%27s%20Most%20Used%20Languages&bg_color=45,e5e0fb,e0dffb,8498ec&title_color=2F2F84)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GH Dark Mode backgrounds:
