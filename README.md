@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="assets/Fun/github-header-image.png" alt="Header image">
+<div align="center">
+    <img src="assets/Fun/github-header-image.png"
+         alt="Header image">
+</div>
 
 <br/>
 <br/>
