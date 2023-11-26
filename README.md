@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<div style="display: flex;
-            justify-content: center;
-            padding-bottom: 20px;">
-    <img src="assets/Fun/github-header-image.png"
-         alt="Header image">
-</div>
-
 <!--
 **jvill171/jvill171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,9 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="display: flex;
+            justify-content: center;">
+    <img src="assets/Fun/github-header-image.png"
+         alt="Header image">
+</div>
+
+<br/>
+<br/>
 
 <div style="display:flex;
-            flex-wrap:wrap; justify-content:space-around; padding:10px 0;">
+            flex-wrap:wrap;
+            justify-content: center;
+            padding: 10px 0;">
     <!-- HTML5 -->
     <img style="padding: 0 10px;"
          src="./assets/devicons/LightMode/html5.svg#gh-light-mode-only"
