@@ -68,10 +68,10 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
          height="60px" alt="Sass" title="Sass"/>
     <!-- Bootstrap -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
          height="60px" alt="Bootstrap" title="Bootstrap"/>
     <!-- Tailwind -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
          height="60px" alt="Tailwind" title="Tailwind"/>
     <!-- PostgreSQL -->
     <img src="./assets/devicons/LightMode/postgresql.svg#gh-light-mode-only"
