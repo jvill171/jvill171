@@ -73,6 +73,9 @@ Here are some ideas to get you started:
     <!-- Tailwind -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
          height="60px" alt="Tailwind" title="Tailwind"/>
+    <!-- Qt -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"
+        height="60px" alt="Qt" title="Qt"/>
     <!-- PostgreSQL -->
     <img src="./assets/devicons/LightMode/postgresql.svg#gh-light-mode-only"
          height="60px" alt="PostgreSQL" title="PostgreSQL"/>
